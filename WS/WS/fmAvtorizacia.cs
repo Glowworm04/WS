@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WS
 {
-    public partial class Form1 : Form
+    public partial class fmAvtorizacia : Form
     {
-        public Form1()
+        public fmAvtorizacia()
         {
             InitializeComponent();
         }

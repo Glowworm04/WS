@@ -1,6 +1,6 @@
 ﻿namespace WS
 {
-    partial class Form1
+    partial class fmAvtorizacia
     {
         /// <summary>
         /// Обязательная переменная конструктора.
